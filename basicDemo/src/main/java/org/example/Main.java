@@ -3,6 +3,7 @@ package org.example;
 /**
  * @author redA
  * @时间: 2024年10月25日 上午10:34
+ * @描述: 值传递
  */
 public class Main {
     private  static  void  change(StringBuffer a, StringBuffer b) {
