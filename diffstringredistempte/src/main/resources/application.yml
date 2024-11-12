@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  # Redis配置
+  redis:
+    host: 192.168.44.168
+    port: 6379
+    database: 0
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: -1ms
+        max-idle: 8
+        min-idle: 0
