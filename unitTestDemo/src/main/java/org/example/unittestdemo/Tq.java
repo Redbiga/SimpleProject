@@ -8,6 +8,6 @@ public class Tq {
 
     public String getName()
     {
-        return "Tq";
+        return "Tqqqqqqqqqqqqqq";
     }
 }
