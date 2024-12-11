@@ -14,7 +14,7 @@ import static org.springframework.test.context.transaction.TestTransaction.start
 public class Callable和Runnable的区别 {
     @Test
     public void test(){
-    /*    new Thread(()->
+/*        new Thread(()->
         {
             System.out.println("hello");
             Integer i = 2/0;

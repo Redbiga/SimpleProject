@@ -14,7 +14,7 @@ public class Main {
     public  static void main(String[] args) {
         StringBuffer str1 = new StringBuffer("hello");
         StringBuffer str2 = new StringBuffer("great ");
-        change(str1, str2);
+         change(str1, str2);
         System.out.println(str1.toString());
         System.out.println(str2.toString());
     }
