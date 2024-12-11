@@ -31,4 +31,5 @@ public class discountService {
     public BigDecimal discountAmount(Integer type,Double couponInfo, BigDecimal skuPrice){
         return map.get(type).discountAmount(couponInfo,skuPrice);
     }
+    
 }

@@ -13,7 +13,20 @@
         <option value="$PROJECT_DIR$/basicDemo/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurityDemo/pom.xml" />
         <option value="$PROJECT_DIR$/strategiesOpifelse/pom.xml" />
+        <option value="$PROJECT_DIR$/unitTestDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/diffstringredistempte/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-chat/pom.xml" />
+        <option value="$PROJECT_DIR$/mail-chat-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mailchat-framwork/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-xuqi-black/pom.xml" />
+        <option value="$PROJECT_DIR$/NettyDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-demo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mall-chat/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

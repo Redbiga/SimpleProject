@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/mailchat-framwork/mailchat-common-start/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -8,9 +11,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basicDemo" />
-        <module name="autowiredDifResource" />
+        <module name="Netty-demo" />
         <module name="SpringSecurityDemo" />
+        <module name="jwt-xuqi-black" />
         <module name="strategie" />
+        <module name="unitTestDemo" />
+        <module name="mailchat-common-start" />
+        <module name="mail-chat-service" />
+        <module name="autowiredDifResource" />
+        <module name="diffstringredistempte" />
         <module name="JwtRBAC" />
       </profile>
     </annotationProcessing>
